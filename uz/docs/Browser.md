@@ -27,10 +27,10 @@ Til menyusining birinchi ustuni brauzer tilini belgilaydi. Til menyusining ikkin
 ![screenshot of browsing two languages simultaneously](img/browser-second-language.png "Browsing two languages simultaneously")
 
 
-## How to resize the hierarchy horizontally
+## Qanday qilib iyerarxiyani gorizontal o'lchamini o'zgartirish
 
-Move your mouse cursor over the bottom-right edge of the hierarchy. Once you see the resize cursor, click and hold the left mouse button. Drag the edge of the element left or right to adjust its width. 
+Sichqoncha bilan kursorni iyerarxiyaning pastki o'ng chetiga olib boring. O'lchamni o'zgartirish kursorini ko'rganingizdan so'ng, sichqonchaning chap tugmasini bosing va ushlab turing. Elementning kengligini sozlash uchun uning chetini chapga yoki o'ngga torting. 
 
 ![screenshot of how to resize](img/browser-resize.png "Browser resize")
 
-Resizing is also available between the two browser contents when using two languages simultaneously.
+Bir vaqtni o'zida ikkita til ishlatilganda ham ular o'rtasidagi o'lchamni o'zgartirish imkoni mavjud.
