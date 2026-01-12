@@ -6,4 +6,4 @@ Tezkor qidirish sizga ma'lum bir toifaga tezda o'tishga yordam beradi. U sarlavh
 
 Ro'yxatda ko'rsatilgan obyektlardan birini bosish shu obyektni yuklaydi.
 
-Natijalar kiritilgan matn XKTdagi iboraga qanchalik mos kelishiga qarab saralanadi. t is also grouped by using the ICD hierarchy so that if the search text matches a parent category and several children, they will appear in a fashion that is easy to identify this relation visually. The list shows only the titles or the best match among the matched terms if the title is not a match.
+Natijalar kiritilgan matn XKTdagi iboraga qanchalik mos kelishiga qarab tartiblangan. Natijalar XKT iyerarxiyasidan foydalanib guruhlangan, shunda agar qidiruv matni yuqori darajadagi toifa va bir nechta bola toifasiga mos kelsa, ular bu munosabatni vizual aniqlash oson bo'lgan tarzda ko'rsatiladi. Ro'yxatda faqat sarlavhalar yoki agar sarlavha mos kelmasa, mos keladigan atamalar orasidagi eng yaxshi mos keladigani ko'rsatiladi. 
